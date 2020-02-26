@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableProj", "..\Nullable
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpNullReferenceTypesCheckpoint", "..\CsharpNullReferenceTypesCheckpoint\CsharpNullReferenceTypesCheckpoint.csproj", "{3AEA7E67-1288-43FC-B3A4-AF42C1DF3063}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpAsyncStreamsCheckpoint", "..\CsharpAsyncStreamsCheckpoint\CsharpAsyncStreamsCheckpoint.csproj", "{5B0FB252-D42E-4B5D-966E-FE4163C961EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3AEA7E67-1288-43FC-B3A4-AF42C1DF3063}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AEA7E67-1288-43FC-B3A4-AF42C1DF3063}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AEA7E67-1288-43FC-B3A4-AF42C1DF3063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B0FB252-D42E-4B5D-966E-FE4163C961EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0FB252-D42E-4B5D-966E-FE4163C961EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0FB252-D42E-4B5D-966E-FE4163C961EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0FB252-D42E-4B5D-966E-FE4163C961EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
