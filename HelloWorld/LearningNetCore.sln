@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpNullReferenceTypesChe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpAsyncStreamsCheckpoint", "..\CsharpAsyncStreamsCheckpoint\CsharpAsyncStreamsCheckpoint.csproj", "{5B0FB252-D42E-4B5D-966E-FE4163C961EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpPatternMatchingCheckpoint", "..\csharp-pattern-matching-checkpoint\CsharpPatternMatchingCheckpoint.csproj", "{B505263C-7587-4AF8-8880-0B8F49F77694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfNetCore", "..\WpfNetCore\WpfNetCore.csproj", "{889229E4-D44B-47E0-9C0F-FBF9C2D11392}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{5B0FB252-D42E-4B5D-966E-FE4163C961EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B0FB252-D42E-4B5D-966E-FE4163C961EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B0FB252-D42E-4B5D-966E-FE4163C961EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B505263C-7587-4AF8-8880-0B8F49F77694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B505263C-7587-4AF8-8880-0B8F49F77694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B505263C-7587-4AF8-8880-0B8F49F77694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B505263C-7587-4AF8-8880-0B8F49F77694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889229E4-D44B-47E0-9C0F-FBF9C2D11392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889229E4-D44B-47E0-9C0F-FBF9C2D11392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889229E4-D44B-47E0-9C0F-FBF9C2D11392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889229E4-D44B-47E0-9C0F-FBF9C2D11392}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
